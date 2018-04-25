@@ -1,0 +1,10 @@
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/obj/Debug/netcoreapp2.0/TransactionBoostingSTM.csproj.CoreCompileInputs.cache
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/obj/Debug/netcoreapp2.0/TransactionBoostingSTM.AssemblyInfoInputs.cache
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/obj/Debug/netcoreapp2.0/TransactionBoostingSTM.AssemblyInfo.cs
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/bin/Debug/netcoreapp2.0/TransactionBoostingSTM.deps.json
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/bin/Debug/netcoreapp2.0/TransactionBoostingSTM.runtimeconfig.json
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/bin/Debug/netcoreapp2.0/TransactionBoostingSTM.runtimeconfig.dev.json
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/bin/Debug/netcoreapp2.0/TransactionBoostingSTM.dll
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/bin/Debug/netcoreapp2.0/TransactionBoostingSTM.pdb
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/obj/Debug/netcoreapp2.0/TransactionBoostingSTM.dll
+/Users/andrew/RiderProjects/TransactionBoostingSTM/TransactionBoostingSTM/obj/Debug/netcoreapp2.0/TransactionBoostingSTM.pdb
